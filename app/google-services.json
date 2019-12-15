@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813947610674",
+    "firebase_url": "https://otocab-1be20.firebaseio.com",
+    "project_id": "otocab-1be20",
+    "storage_bucket": "otocab-1be20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813947610674:android:c118eb653b64ced2583e2b",
+        "android_client_info": {
+          "package_name": "com.example.ahabdelhak.otocabtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813947610674-30m192per3uor42ffckqshhbun41h9k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahabdelhak.otocabtask",
+            "certificate_hash": "939590e908fa07383d4d53671e333658533a8dcb"
+          }
+        },
+        {
+          "client_id": "813947610674-9rb39v437h8ga467c2p4tggj2ksnb6h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0diZ-EOJeO6nk7KLno2Hk2aR3Sme6Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813947610674-9rb39v437h8ga467c2p4tggj2ksnb6h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

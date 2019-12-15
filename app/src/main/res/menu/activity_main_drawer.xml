@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/navMap"
+            android:icon="@android:drawable/ic_menu_directions"
+            android:title="Map" />
+        <item
+            android:id="@+id/navUsers"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="Users" />
+    </group>
+</menu>
